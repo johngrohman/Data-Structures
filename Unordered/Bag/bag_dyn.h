@@ -45,7 +45,7 @@ class DynamicBag: public Bag<T>
 		int occurences(const T & target) const;
 
 		void print_bag();
-}
+};
 
 #include "bag_dyn.hpp"
 

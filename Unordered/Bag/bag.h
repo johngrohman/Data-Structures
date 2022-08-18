@@ -11,6 +11,6 @@ class Bag
 		virtual bool insert(const T & myItem) = 0;
 		virtual bool remove(const T &myItem) = 0;
 		virtual int size() const = 0;
-}
+};
 
 #endif
